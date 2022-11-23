@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 18vh;
+    background-color: #F4FEFF;
+}
+.appco{
+    float: left;
+    color: #8413B7;
+    padding-left: 3.8%;
+    padding-top: 2%;
+}
+.ul{
+float: right;
+display: flex;
+color: #4D177F;
+list-style: none;
+padding-right: 5%;
+padding-top: 2.7%;
+font-size: 1.3rem;
+}
+.section1{
+    width: 100%;
+    height: 135vh;
+    background-color: #F4FEFF;
+    color: #2B044D;
+}
+.page{
+    float: left;
+    padding-top: 14.5%;
+    padding-left: 3.7%;
+    font-size: 0.9rem;
+}
+.get{
+    float: left;
+    color: #2A044C;
+}
+.x{
+    padding-top: 17%;
+    padding-right: 5%;
+    font-size: 4rem;
+}
+.img2{
+    float: right;
+    margin-top: 3.8%;
+    margin-right: 3.7%;
+}
+.dorem{
+    float: left;
+    color: #7488A3;
+    padding-top: 5%;
+    padding-left: 3.7%;
+}
+.dorem2{
+    float: left;
+    color: #7488A3;
+    padding-top: 1.4%;
+    padding-right: 5%;
+    padding-left: 3.7%;
+}
+.dorem3{
+    float: left;
+    color: #7488A3;
+    padding-top: 1.6%;
+    padding-right: 17.3%;
+    padding-left: 3.7%;
+}
+.btn{
+    width: 14%;
+    height: 10vh;
+    float: left;
+    margin-top: 4.8%;
+    margin-right: 25%;
+    margin-left: 3.7%;
+    font-size: 2.4rem;
+    color: #FFE3ED;
+    background-color: #F9218D;
+    border: none;
+    border-radius: 100vh;
+}
+.icon2{
+    background-color: #D551E4;
+}
